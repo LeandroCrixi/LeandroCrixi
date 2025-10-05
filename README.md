@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Leandro Crixi  
+# 👋 Hey there, I'm Leo Crixi  
 
 💻 **Freelance Web Developer** | ✈️ Open to travel & remote work  
 
