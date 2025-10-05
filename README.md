@@ -62,6 +62,10 @@ With a background in **front-end development**, I specialize in building modern,
 ---
 
 ✨ *“Turning ideas into code and experiences into learning.”*  
+<!--
+![Leandro Crixi[](url)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroCrixi&show_icons=true&theme=radical)
+https://github.com/anuraghazra/github-readme-stats
+-->
 
 
 
